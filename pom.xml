@@ -18,6 +18,7 @@
     <sonar.organization>dhirendrasp</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.login>db7e5b4fc30a28dd3accab632455d161326a0226</sonar.login>
+    <sonar.inclusions>src/main/**</sonar.inclusions>
   </properties>
 
   <modules>
